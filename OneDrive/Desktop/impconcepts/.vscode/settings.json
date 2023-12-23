@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "TOBEDELETED.C": "cpp",
+        "unordered_map": "cpp",
+        "list": "cpp"
+    }
+}
